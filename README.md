@@ -1,2 +1,2 @@
-# git-practice
-## Lab 7
+# git-practice By Jiwon Kim
+## Lab 7 Complete
